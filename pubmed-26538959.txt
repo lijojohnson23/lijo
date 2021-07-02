@@ -1,0 +1,57 @@
+PMID- 26538959
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20151105
+LR  - 20200930
+IS  - 0976-4879 (Print)
+IS  - 0975-7406 (Electronic)
+IS  - 0975-7406 (Linking)
+VI  - 7
+IP  - Suppl 2
+DP  - 2015 Aug
+TI  - The orthodontic management of ectopic canine.
+PG  - S749-51
+LID - 10.4103/0975-7406.163534 [doi]
+AB  - The canines being the cornerstone of the arch and smile is one of the teeth, which 
+      has the longest eruption passage that gets influenced by local and general 
+      etiological factors easily. The initial calcification of the crowns starts at 4-5 
+      months of age and proceeds toward eruption about 11-13 years of age with mesiobuccal 
+      crown angulation that gets corrected toward occlusion. It gets displaced buccally or 
+      palatally or may sometimes get impacted. Early intervention is the best suited to 
+      manage canine eruption patterns. Once erupted ectopically, they possess a great 
+      challenge in repositioning them back into their correct position. This case report 
+      discusses an orthodontic treatment planning and execution to correct a buccally 
+      placed canine with an anterior crossbite in an adult.
+FAU - Thirunavukkarasu, R
+AU  - Thirunavukkarasu R
+AD  - Department of Orthodontics, Karpaga Vinayaga Instituite of Dental Sciences, Chennai, 
+      Tamil Nadu, India.
+FAU - Sriram, G
+AU  - Sriram G
+AD  - Department of Orthodontics, Ragas Dental College and Hospital, Chennai, Tamil Nadu, 
+      India.
+FAU - Satish, R
+AU  - Satish R
+AD  - Department of Orthodontics, Aadhiparasakthi Dental College and Hospital, 
+      Melmaruvathoor, Kanchipuram, Tamil Nadu, India.
+LA  - eng
+PT  - Case Reports
+TA  - J Pharm Bioallied Sci
+JT  - Journal of pharmacy & bioallied sciences
+JID - 101537209
+PMC - PMC4606701
+OTO - NOTNLM
+OT  - Anterior crossbite
+OT  - blocked incisor
+OT  - ectopic canine
+COIS- Conflict of Interest: None declared.
+EDAT- 2015/11/06 06:00
+MHDA- 2015/11/06 06:01
+CRDT- 2015/11/06 06:00
+PHST- 2015/11/06 06:00 [entrez]
+PHST- 2015/11/06 06:00 [pubmed]
+PHST- 2015/11/06 06:01 [medline]
+AID - JPBS-7-749 [pii]
+AID - 10.4103/0975-7406.163534 [doi]
+PST - ppublish
+SO  - J Pharm Bioallied Sci. 2015 Aug;7(Suppl 2):S749-51. doi: 10.4103/0975-7406.163534.
